@@ -6,10 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Auryanne/gitHub/RPG/Gachotte_RPG_JV2/Content/Blueprint/interractable/BP_PNJ.uasset",
-				"D:/Auryanne/gitHub/RPG/Gachotte_RPG_JV2/Content/Blueprint/BP_PNJ.uasset",
 				"D:/Auryanne/gitHub/RPG/Gachotte_RPG_JV2/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"D:/Auryanne/gitHub/RPG/Gachotte_RPG_JV2/Content/Blueprint/BP_FL_shortcut.uasset",
 				"D:/Auryanne/gitHub/RPG/Gachotte_RPG_JV2/Content/Blueprint/interractable/BP_interractable.uasset",
+				"D:/Auryanne/gitHub/RPG/Gachotte_RPG_JV2/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/Z7/I558ZB1LAW953XIVGPTYQR.uasset",
+				"D:/Auryanne/gitHub/RPG/Gachotte_RPG_JV2/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/1U/CY1WNUWYT437M613AFDEKI.uasset",
+				"D:/Auryanne/gitHub/RPG/Gachotte_RPG_JV2/Content/Blueprint/BP_PNJ.uasset",
 				"D:/Auryanne/Unreal/GAC_AUR_RPG/Content/Blueprint/BP_PNJ.uasset",
 				"D:/Auryanne/Unreal/GAC_AUR_RPG/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"D:/Auryanne/Unreal/GAC_AUR_RPG/Content/Blueprint/interractable/BP_interractable.uasset"
