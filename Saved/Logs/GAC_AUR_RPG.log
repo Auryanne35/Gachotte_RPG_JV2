@@ -5132,3 +5132,51 @@ FPackageName: Skipped package /Game/Mesh/cuteCreature/SM_cuteCreature has a vali
 [2026.02.20-11.27.17:435][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7667.935059
 [2026.02.20-11.27.18:436][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.20-11.27.18:436][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7668.601074, Update Interval: 340.928986
+[2026.02.20-11.28.01:934][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.20-11.28.01:943][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-11.28.02:075][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.20-11.28.02:106][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.20-11.28.02:134][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.20-11.28.02:156][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/2/FT/ZXFS0WGS5AK2QD7RCGMG3F
+[2026.02.20-11.28.02:157][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/ZXFS0WGS5AK2QD7RCGMG3F676F7E0C4B6575C6A56B9790ABD7CBC1.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/2/FT/ZXFS0WGS5AK2QD7RCGMG3F.uasset'
+[2026.02.20-11.28.02:172][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/1/2S/KRI53CQ7029F608B7F2STO
+[2026.02.20-11.28.02:172][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/KRI53CQ7029F608B7F2STO28B8ED764914708B3BE5A6B827C2BCB7.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/1/2S/KRI53CQ7029F608B7F2STO.uasset'
+[2026.02.20-11.28.02:184][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/9/SK/5L9LLQLV495ZSAU1J649JP
+[2026.02.20-11.28.02:185][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/5L9LLQLV495ZSAU1J649JP4EA221824DD103B973AC46B57090FDBA.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/9/SK/5L9LLQLV495ZSAU1J649JP.uasset'
+[2026.02.20-11.28.02:196][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/5/0Q/TZTMSVJKPROKK17RE0WX62
+[2026.02.20-11.28.02:197][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/TZTMSVJKPROKK17RE0WX62F68A589C41F57D17B847649F2C77B3D7.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/5/0Q/TZTMSVJKPROKK17RE0WX62.uasset'
+[2026.02.20-11.28.02:210][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/2/7B/474BCEKUT54TX268GGXA93
+[2026.02.20-11.28.02:211][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/474BCEKUT54TX268GGXA930B86F57F44BCEC74EBF959B5833FBAB5.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/2/7B/474BCEKUT54TX268GGXA93.uasset'
+[2026.02.20-11.28.02:224][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/0/7Y/E2DUQ9GTLD8248ZYWO1BXG
+[2026.02.20-11.28.02:226][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/E2DUQ9GTLD8248ZYWO1BXG7DE1F0D3401582C5B8E028846F0951BA.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/0/7Y/E2DUQ9GTLD8248ZYWO1BXG.uasset'
+[2026.02.20-11.28.02:242][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/B/C6/0FJ4G0MCFHR75N62LRC5GF
+[2026.02.20-11.28.02:242][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/0FJ4G0MCFHR75N62LRC5GFCA83A9DA441F6A4D0DE843BEA1248459.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/__ExternalActors__/Base_Unreal/TopDown/Lvl_TopDown/B/C6/0FJ4G0MCFHR75N62LRC5GF.uasset'
+[2026.02.20-11.28.02:244][ 62]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_inventory] ([2] browsable assets)...
+[2026.02.20-11.28.02:244][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_inventory]
+[2026.02.20-11.28.02:244][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_inventory" FILE="../../../../../../Github/Gachotte_RPG_JV2/Content/UI/WBP_inventory.uasset" SILENT=true
+[2026.02.20-11.28.02:271][ 62]LogSavePackage: Moving output files for package: /Game/UI/WBP_inventory
+[2026.02.20-11.28.02:271][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/WBP_inventory94C7008A4D938A7B6138BE8A331A2A24.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/UI/WBP_inventory.uasset'
+[2026.02.20-11.28.02:273][ 62]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/interractable/BP_PNJ] ([2] browsable assets)...
+[2026.02.20-11.28.02:274][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/interractable/BP_PNJ]
+[2026.02.20-11.28.02:274][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/interractable/BP_PNJ" FILE="../../../../../../Github/Gachotte_RPG_JV2/Content/Blueprint/interractable/BP_PNJ.uasset" SILENT=true
+[2026.02.20-11.28.02:296][ 62]LogSavePackage: Moving output files for package: /Game/Blueprint/interractable/BP_PNJ
+[2026.02.20-11.28.02:296][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/BP_PNJFC44C4EC4833645AC1126A8D9042C24E.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/Blueprint/interractable/BP_PNJ.uasset'
+[2026.02.20-11.28.02:297][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/creature/BP_C_EC_eyeBat] ([2] browsable assets)...
+[2026.02.20-11.28.02:297][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/creature/BP_C_EC_eyeBat]
+[2026.02.20-11.28.02:297][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/creature/BP_C_EC_eyeBat" FILE="../../../../../../Github/Gachotte_RPG_JV2/Content/Blueprint/creature/BP_C_EC_eyeBat.uasset" SILENT=true
+[2026.02.20-11.28.02:314][ 62]LogSavePackage: Moving output files for package: /Game/Blueprint/creature/BP_C_EC_eyeBat
+[2026.02.20-11.28.02:314][ 62]LogSavePackage: Moving '../../../../../../Github/Gachotte_RPG_JV2/Saved/BP_C_EC_eyeBatD1D7CC5944FB22213CE5649AC162D7E5.tmp' to '../../../../../../Github/Gachotte_RPG_JV2/Content/Blueprint/creature/BP_C_EC_eyeBat.uasset'
+[2026.02.20-11.28.02:333][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 389.048 ms (total: 6.26 sec)
+[2026.02.20-11.28.02:431][ 62]LogContentValidation: Display: Starting to validate 14 assets
+[2026.02.20-11.28.02:431][ 62]LogContentValidation: Enabled validators:
+[2026.02.20-11.28.02:431][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-11.28.02:431][ 62]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-11.28.02:431][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-11.28.02:431][ 62]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-11.28.02:431][ 62]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-11.28.02:431][ 62]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-11.28.02:432][ 62]AssetCheck: /Game/Base_Unreal/TopDown/Lvl_TopDown Validating asset
+[2026.02.20-11.28.02:433][ 62]AssetCheck: /Game/UI/WBP_inventory Validating asset
+[2026.02.20-11.28.02:433][ 62]AssetCheck: /Game/Blueprint/interractable/BP_PNJ Validating asset
+[2026.02.20-11.28.02:433][ 62]AssetCheck: /Game/Blueprint/creature/BP_C_EC_eyeBat Validating asset
+[2026.02.20-11.28.02:469][ 62]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Github/Gachotte_RPG_JV2/Saved/SourceControl/UncontrolledChangelists.json
